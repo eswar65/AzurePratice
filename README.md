@@ -1,0 +1,2 @@
+# AzurePratice
+Azure Lab
